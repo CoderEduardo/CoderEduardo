@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning React
 - 📫 How to reach me: luiseduardo250305@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 ## Stats
 
